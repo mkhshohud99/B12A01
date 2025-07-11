@@ -82,3 +82,81 @@
 .parcentiz p{
     color: #4a4a4a;
 }
+.fa-star{
+    color: gold;
+}
+.review_head{
+    text-align: center;
+    font-size: 30px;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+.card1, .card2, .card3{
+    background: #f6f0f9;
+    padding: 25px;
+    border-radius: 10px;
+}
+.card h4{
+   font-size: 25px;
+}
+
+.customer{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 10px;
+}
+.customer img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.customer_nm{
+    font-size: 20px;
+}
+.customer_dtls{
+    color: #787575;
+
+}
+.customer_review{
+    flex-direction: row;
+    gap: 2px;
+}
+.extra{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    background: #e4caff;
+    border-radius: 10px;
+    padding: 50px 100px;
+}
+.extra img {
+    border-radius: 30px;
+}
+.btn_a{
+    margin: 30px 39%;
+}
+.lgit{
+    font-size: 50px;
+}
+.getintuch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 100px;
+}
+input,textarea{
+    margin: 20px 0px;
+    font-size: xx-large;
+    border: 1px solid #fff;
+    background: #f6f0f9;
+    border-radius: 10px;
+}
+.sub_btn{
+    width: 100%;
+    margin-left: 0px;
+}
