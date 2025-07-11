@@ -160,3 +160,22 @@ input,textarea{
     width: 100%;
     margin-left: 0px;
 }
+footer{
+    text-align: center;
+    background: #dcd2e6;
+    padding: 70px;
+}
+nav{
+    margin: 50px 30%;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+nav li{
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #795151;
+}
