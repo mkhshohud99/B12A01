@@ -20,6 +20,9 @@
     margin: 25px;
     border-radius: 5px;
 }
+.btn:hover{
+    background: skyblue;
+}
 
 .head_bar{
     padding: 30px 100px;
