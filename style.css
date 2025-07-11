@@ -39,3 +39,23 @@
     text-align: center;
     padding: 100px;
 }
+.action{
+    display: flex;
+    justify-content: space-between;
+    padding: 150px;
+}
+.action_left{
+    font-size: large;
+    
+}
+.action_left p{
+    color: #4a4a4a;
+}
+.action_btn{
+    margin-left: 0px;
+}
+.action img{
+    /* height: 300px;
+    width: 300px; */
+    border-radius: 5%;
+}
