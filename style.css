@@ -28,6 +28,7 @@
 .nav_bar{
     display:flex;
     justify-content: space-between;
+    margin: 0px;
 }
 
 .logo{
