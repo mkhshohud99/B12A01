@@ -6,7 +6,9 @@
     font-style: normal;
   }
 
-
+.containt{
+    margin: 0px 100px;
+}
 .btn{
     background: #4E47FF;
     font-style: none;
@@ -37,12 +39,11 @@
 }
 .banner{
     text-align: center;
-    padding: 100px;
 }
 .action{
     display: flex;
     justify-content: space-between;
-    padding: 150px;
+    margin: 100px 0PX;
 }
 .action_left{
     font-size: large;
@@ -55,7 +56,29 @@
     margin-left: 0px;
 }
 .action img{
-    /* height: 300px;
-    width: 300px; */
     border-radius: 5%;
+}
+.performance_section{
+    background: #e4caff;
+    border-radius: 10px;
+    
+}
+.performance_section h4{
+    text-align: center;
+    padding: 50px 0px;
+    font-size: 30px;
+}
+.p_card{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    text-align: center;
+}
+.parcentiz{
+    font-size: 40px;
+    color: #4E47FF;
+    padding-bottom: 20px;
+}
+.parcentiz p{
+    color: #4a4a4a;
 }
