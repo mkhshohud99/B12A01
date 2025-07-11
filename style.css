@@ -166,17 +166,17 @@ footer{
     background: #dcd2e6;
     padding: 70px;
 }
-nav{
+.dn_nav{
     margin: 50px 30%;
 }
-nav ul{
+.dn_nav ul{
     display: flex;
     justify-content: space-between;
 }
-nav li{
+.dn_nav li{
     list-style: none;
 }
-nav ul li a{
+.dn_nav ul li a{
     text-decoration: none;
     color: #795151;
 }
